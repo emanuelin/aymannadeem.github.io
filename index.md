@@ -1,6 +1,6 @@
 ---
 title: my personal website
-default:default.html
+default: default.html
 ---
 
 ## aymoney's webpage
